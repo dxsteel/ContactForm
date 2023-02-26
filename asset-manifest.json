@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/ContactForm/static/css/main.7acaea2f.css",
-    "main.js": "/ContactForm/static/js/main.07d3183d.js",
+    "main.css": "/ContactForm/static/css/main.1082493e.css",
+    "main.js": "/ContactForm/static/js/main.9f8b66d1.js",
+    "static/media/map.png": "/ContactForm/static/media/map.0e89b4e353376cf53613.png",
+    "static/media/Group 5041.svg": "/ContactForm/static/media/Group 5041.c035f2377c1cb6d475ec44df889cc49d.svg",
+    "static/media/Group (3).svg": "/ContactForm/static/media/Group (3).25a11ca5f446227ef2c888d182d44011.svg",
+    "static/media/Group (4).svg": "/ContactForm/static/media/Group (4).578f84afe11391449cf267eef9cd1e41.svg",
+    "static/media/Group (2).svg": "/ContactForm/static/media/Group (2).7e5cc549e6a8aed0ce5382f6da3f379a.svg",
+    "static/media/Group.svg": "/ContactForm/static/media/Group.672d83d228d346ef09b940c32c582ed2.svg",
+    "static/media/Group (1).svg": "/ContactForm/static/media/Group (1).e5c060683df47dbec0e30517c1a014ac.svg",
     "index.html": "/ContactForm/index.html",
-    "main.7acaea2f.css.map": "/ContactForm/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/ContactForm/static/js/main.07d3183d.js.map"
+    "static/media/Group 80.svg": "/ContactForm/static/media/Group 80.f7c148902b7ceda8a81b19198d661d24.svg",
+    "main.1082493e.css.map": "/ContactForm/static/css/main.1082493e.css.map",
+    "main.9f8b66d1.js.map": "/ContactForm/static/js/main.9f8b66d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.1082493e.css",
+    "static/js/main.9f8b66d1.js"
   ]
 }
